@@ -1,0 +1,65 @@
+body {
+  background-color: white;
+  text-align: center;
+}
+table {
+  color: black;
+  margin: auto;
+}
+.head {
+  color:black;
+}
+p {
+  color: gold;
+}
+h1, h2, h3 {
+  color: blue;
+}
+h1 {
+    background-image: url("BackgroundND.jpg");
+}
+tr {
+  color: black;
+}
+img {
+  height: 175px;
+}
+#HockeyP {
+  background-color: white;
+  width: 325px;
+  border: 5px dashed blue;
+  padding: 5px;
+  margin: auto;
+}
+footer {
+  text-align: center;
+  font-variant: small-caps;
+}
+header {
+  text-align: center;
+  background-image: url("BackgroundImageND.png");
+/*  color: blue; */
+}
+#FootballP {
+  background-color: white;
+  width: 325px;
+  border: 5px dashed blue;
+  padding: 5px;
+  margin: auto;
+}
+#CampusP {
+  background-color: white;
+  width: 325px;
+  border: 5px dashed blue;
+  padding: 5px;
+  margin: auto;
+}
+a {
+  background-color: gold;
+  padding: 20px;
+  display: inline-block;
+  margin: 0 auto;
+}
+ a:hover {
+  color: yellow;
+}
